@@ -109,6 +109,95 @@
     "description": "The Vaishno Devi Temple also referred to as Shri Mata Vaishno Devi Temple and Vaishno Devi Bhavan is a prominent and widely revered Hindu temple dedicated to goddess Vaishno Devi. It is located in Katra, Reasi on the slopes of Trikuta Hills within the union territory of Jammu & Kashmir in India.[1][2][3] Shakta traditions consider the temple as one of the 52 Maha (major) Shakti Peethas dedicated to Durga.[4] Hindus consider Vaishno Devi as one of the incarnations or forms of Goddess Lakshmi.[5][5] The temple is governed by the Shri Mata Vaishno Devi Shrine Board (SMVDSB), chaired by the Government of Jammu and Kashmir in August 1986 ",
    
     "price": 1499
+  },
+  {
+    "id": 12,
+    "title": "Deo Tibba base Manali" ,
+    "image": "https://admin.banbanjara.com/public/frontend/uploads/product/1562560622627-HamptaPassTrek.jpg?dim=784x422&type=resize",
+    "rating": 4.8,
+    "description": "One of the most beautiful treks in Manali, Deo Tibba Base camp trek takes you through varied and rich flora-fauna of the Himachal with the magnificent Mt Deo Tibba at 14,698 ft in your constant view!",
+   
+    "price": 10000
+    
+  },
+  {
+    "id": 13,
+    "title": "Rupin Pass Trek 2023 Shimla ",
+    "image": "https://admin.banbanjara.com/public/frontend/uploads/product/1561722761088-RupinPassTrek2019BanBanjara.jpg?dim=784x422&type=resize",
+    "rating": 4,
+    "description": "The Rupin Pass Trek takes you to a height of 4610 m, deep in the Himalayas! The Rupin Pass boasts of being one of the most exciting and beautiful destinations for a trek. This trek is relatively difficult due to the long duration of the trek, ",
+   
+    "price": 1100
+    
+  },
+  {
+    "id": 14,
+    "title": "Tadiandamol Trek 2022: Go wild this weekend!",
+    "image": "https://admin.banbanjara.com/public/frontend/uploads/product/1583996365913-tadiandamoltrekcoorgtourismBanBanjara.jpg?dim=784x422&type=resize",
+    "rating": 3.4,
+    "description": "Nestled deep in the Western Ghats, the Tadiandamol Peak is located 274 km from Bangalore. Standing tall and proud at a height of 1748 m, the Peak is the highest peak of Coorg. Spanning a total of 15 km, it takes up to 6 hours to scale the Todiandamol Trek.",
+   
+    "price": 17000
+    
+  },
+  {
+    "id": 15,
+    "title": "Mullayanagiri Trekking and Adventure ",
+    "image": "https://admin.banbanjara.com/public/frontend/uploads/product/1563888313051-imgb458d6ac49ea2dca6c8eee6a151cb7351545242087425processedoriginal.jpg?dim=784x422&type=resize",
+    "rating": 3.8,
+    "description": "The Mullayanagiri Peak Trek and the weekend adventure camp start in Bangalore. This trek takes you up the highest peak of Karnataka to a height of 1950 m! You will also have the amazing chance of hiking through the jungles and taking a dip in the cold, clear waters of roaring waterfalls",
+   
+    "price": 7200
+    
+  },
+  {
+    "id": 16,
+    "title": "Visapur Fort Trek 2021 Visapur, Maharashtra India",
+    "image": "https://admin.banbanjara.com/public/frontend/uploads/product/1607079822262-stairsinrainVisapurFortTrek.jpg?dim=784x422&type=resize",
+    "rating": 2,
+    "description": "Up for a trek!!! Then pack your bags for a one day trek to Visapur fort trek. The trek is at a height of 3556ft which offers a majestic view with lush greenery and the feeling of being above the cloud. This trek is one of the best treks to do in the monsoon season.",
+   
+    "price": 14000
+    
+  },
+  {
+    "id": 17,
+    "title": " Trekking and Adventure ",
+    "image": "https://admin.banbanjara.com/public/frontend/uploads/product/1563888313051-imgb458d6ac49ea2dca6c8eee6a151cb7351545242087425processedoriginal.jpg?dim=784x422&type=resize",
+    "rating": 4.2,
+    "description": "The Mullayanagiri Peak Trek and the weekend adventure camp start in Bangalore. This trek takes you up the highest peak of Karnataka to a height of 1950 m! You will also have the amazing chance of hiking through the jungles and taking a dip in the cold, clear waters of roaring waterfalls",
+   
+    "price": 7200
+    
+  },
+  {
+    "id": 18,
+    "title": "Beach Trek ",
+    "image": "https://admin.banbanjara.com/public/frontend/uploads/product/1606999471315-enjoyDevkundWaterfallTrek.jpg?dim=784x422&type=resize",
+    "rating": 4.8,
+    "description": "Gokarna Beach Trek presents an ideal weekend getaway opportunity from Bangalore",
+   
+    "price": 6400
+    
+  },
+  {
+    "id": 19,
+    "title": "Kudremukh Trek",
+    "image": "https://admin.banbanjara.com/public/frontend/uploads/product/1563888313051-imgb458d6ac49ea2dca6c8eee6a151cb7351545242087425processedoriginal.jpg?dim=784x422&type=resize",
+    "rating": 4.7,
+    "description": "Located deep in the heart of the Western Ghats, the Kudremukh Peak is situated in the National Reserve Forest",
+   
+    "price": 2450
+    
+  },
+  {
+    "id": 20,
+    "title": " Trek Pricing",
+    "image": "https://admin.banbanjara.com/public/frontend/uploads/product/1607079716112-lovelyviewBhimashankarTrek.jpg?dim=784x422&type=resize",
+    "rating": 4.5,
+    "description": "Kheerganga Trek (Khir Ganga), located at a height of about 2950 m, is one of the most well-known trekking destinations in Himachal Pradesh",
+    "price": 1000
+    
   }
 
 ],
@@ -213,6 +302,106 @@
         "description": "Kasol is a small village located at a height of 1580m, in the Kullu district of Himachal Pradesh.",
        
         "price": 6000
+        
+      },
+      {
+        "id":11 ,
+        "title": "Camping In Kasol ",
+        "image": "https://admin.banbanjara.com/public/frontend/uploads/product/1615445259839-HARIDWAR.jpg?dim=784x422&type=resize",
+        "rating": 4.3,
+        "description": "Kasol is a small village located at a height of 1580m, in the Kullu district of Himachal Pradesh.",
+       
+        "price": 6400
+        
+      },
+      {
+        "id": 12,
+        "title": "Camping Rafting and Paragliding",
+        "image": "https://admin.banbanjara.com/public/frontend/uploads/product/1568114885188-RockclimbinginmanaliBanBanjara.jpg?dim=784x422&type=resize",
+        "rating": 4.8,
+        "description": "Manali is a high-altitude, picturesque town in the Himalayan state of Himachal Pradesh. It is a hotspot for tourists,",
+       
+        "price": 12000
+        
+      },
+      {
+        "id": 13,
+        "title": "Camping with Adventure Activities ",
+        "image": "https://admin.banbanjara.com/public/frontend/uploads/product/1568114885188-RockclimbinginmanaliBanBanjara.jpg?dim=784x422&type=resize",
+        "rating": 4.2,
+        "description": "Explore the Ramnagara Adventure Camp, located 60 km away from Bangalore! ",
+       
+        "price": 15000
+        
+      },
+      {
+        "id": 14,
+        "title": "Dandeli Camping",
+        "image": "https://admin.banbanjara.com/public/frontend/uploads/product/1568114885188-ManalisbowtrekkingBanBanjara.jpg?dim=784x422&type=resize",
+        "rating": 5,
+        "description": "Dandeli Jungle Safari Adventure stays the thing which you should never miss, and also you should experience once in a lifetime.",
+       
+        "price": 7600
+        
+      },
+      {
+        "id": 15,
+        "title": "Camping in Rishikesh",
+        "image": "https://admin.banbanjara.com/public/frontend/uploads/product/1607079650493-RevdandaBeachCampingEVENINGVIEW.jpg?dim=784x422&type=resize",
+        "rating": 4.7,
+        "description": "This river rafting experience takes you to Rishikesh, a popular tourist town in the foothills of the Himalayas",
+       
+        "price": 6999
+        
+      },
+      {
+        "id": 16,
+        "title": "Kanatal Camping",
+        "image": "https://admin.banbanjara.com/public/frontend/uploads/product/1607079650492-DAYOUT.jpg?dim=784x422&type=resize",
+        "rating": 4,
+        "description": "With this splendid experience of Camping in Kanatal, visit the quaint village in Tehri, ",
+       
+        "price": 7999
+        
+      },
+      {
+        "id": 17,
+        "title": " Camping with Adventure Activities ",
+        "image": "https://admin.banbanjara.com/public/frontend/uploads/product/1607142935737-campsight.jpg?dim=784x422&type=resize",
+        "rating": 3.9,
+        "description": "Explore the Ramnagara Adventure Camp, located 60 km away from Bangalore! ",
+       
+        "price": 8000
+        
+      },
+      {
+        "id": 18,
+        "title": "Camping ",
+        "image": "https://admin.banbanjara.com/public/frontend/uploads/product/1624096224979-WhatsAppImage20191128at11942PM.jpeg?dim=784x422&type=resize",
+        "rating": 3,
+        "description": "This river rafting experience takes you to Rishikesh, a popular tourist town in the foothills of the Himalayas",
+       
+        "price": 19000
+        
+      },
+      {
+        "id": 19,
+        "title": "Kanatal Camping",
+        "image": "https://admin.banbanjara.com/public/frontend/uploads/product/1561640215194-CampinginKanatalBanBanjar.jpg?dim=784x422&type=resize",
+        "rating": 3.5,
+        "description": "With this splendid experience of Camping in Kanatal, visit the quaint village in Tehri, ",
+       
+        "price": 6700
+        
+      },
+      {
+        "id":20 ,
+        "title": "Camping In Kasol ",
+        "image": "https://admin.banbanjara.com/public/frontend/uploads/product/1561640215194-CampinginKanatalBanBanjar.jpg?dim=784x422&type=resize",
+        "rating": 3.8 ,
+        "description": "Kasol is a small village located at a height of 1580m, in the Kullu district of Himachal Pradesh.",
+       
+        "price": 6800
         
       }
      
@@ -321,13 +510,104 @@
       },
       {
         "id": 11,
+        "title": "Camping  Rafting ",
+        "image": "https://admin.banbanjara.com/public/frontend/uploads/product/1585995015347-TandemParagliding1440x648.jpg?dim=784x422&type=resize",
+        "rating": 4,
+        "description": "This river rafting experience takes you to Rishikesh, a popular tourist town in the foothills of the Himalayas.",
+       
+        "price": 1998
+        
+      },
+      {
+        "id": 12,
+        "title": "Bungee Jumping in Rishikesh ",
+        "image": "https://admin.banbanjara.com/public/frontend/uploads/product/1585995015347-paraglidingatkamshet1.jpg?dim=784x422&type=resize",
+        "rating": 4.8,
+        "description": "Want to have a bungee jump? Then cheer up because this experience would be everlasting for your whole lifetime.",
+       
+        "price": 4500
+        
+      },
+      {
+        "id": 13,
+        "title": "Giant Swing in Rishikesh",
+        "image": "https://admin.banbanjara.com/public/frontend/uploads/product/1619005946828-2.jpg?dim=784x422&type=resize",
+        "rating": 4,
+        "description": "spiritual and a cultural destination, is a gateway",
+       
+        "price": 4888
+        
+      },
+      {
+        "id": 14,
+        "title": "Scuba Diving In Andaman",
+        "image": "https://admin.banbanjara.com/public/frontend/uploads/product/1568118552796-jumpinrishikesBanBanjara.jpg?dim=784x422&type=resize",
+        "rating": 3,
+        "description": "The Andaman Islands is an archipelago in the Bay of Bengal about 1370 Kilometers east of mainland India,",
+       
+        "price": 70000
+        
+      },
+      {
+        "id": 15,
+        "title": "Snorkeling in Andaman",
+        "image": "https://admin.banbanjara.com/public/frontend/uploads/product/1568118552796-BungeelonavlaBanBanjara.jpg?dim=784x422&type=resize",
+        "rating": 3.8,
+        "description": "The Andaman Islands are really among the most beautiful and attractive destinations in India for honeymoon trips and friends.",
+       
+        "price": 7000
+        
+      },
+      {
+        "id": 16,
+        "title": "Adventure water sports in Goa ",
+        "image": "https://admin.banbanjara.com/public/frontend/uploads/product/1568026319489-HneymoonspecialBanBanjara.jpg?dim=784x422&type=resize",
+        "rating": 4.5,
+        "description": "Calangute beach lined with restaurants and bars, it stands on the shore of the Arabian sea. ",
+       
+        "price": 5000
+        
+      },
+      {
+        "id": 17,
+        "title": "Ride in Mumbai ",
+        "image": "https://admin.banbanjara.com/public/frontend/uploads/product/1576490122011-MediumParaglidinginBirBillingBanBanjara.jpg?dim=784x422&type=resize",
+        "rating": 3,
+        "description": "Helicopter Joy rides in Mumbai is the latest addition to trending amazing experiences in the city. ",
+       
+        "price":2000 
+        
+      },
+      {
+        "id": 18,
+        "title": "Luxurious Boating in Mumbai ",
+        "image": "https://admin.banbanjara.com/public/frontend/uploads/product/1582690591579-watersportspackagegoa.jpg?dim=784x422&type=resize",
+        "rating": 4,
+        "description": "Luxurious Boating has been used for leisure for centuries. From ancient times,",
+       
+        "price": 1500
+        
+      },
+      {
+        "id": 19,
+        "title": "Paragliding in Bir Billing",
+        "image": "https://admin.banbanjara.com/public/frontend/uploads/product/1580715675359-NakeelaBanBanjara.jpg?dim=784x422&type=resize",
+        "rating": 4,
+        "description": "Go paragliding in Bir Billing this season and fly high in the skies of Himachal Pradesh.",
+       
+        "price": 800
+        
+      },
+      {
+        "id": 20,
         "title": "Camping in Manali with Rafting ",
-        "image": "https://admin.banbanjara.com/public/frontend/uploads/product/1568114885188-RiverraftingmanaliBanBanjara.jpg?dim=784x422&type=resize",
-        "rating": 4.6,
+        "image": "https://admin.banbanjara.com/public/frontend/uploads/product/1580715675359-LehsnowcappedmountainsBanBanjara.jpg?dim=784x422&type=resize",
+        "rating": 3.6,
         "description": "Manali is a high-altitude, picturesque town in the Himalayan state of Himachal Pradesh",
        
-        "price": 6999
+        "price": 699
         
       }
+    
  ]
 }
